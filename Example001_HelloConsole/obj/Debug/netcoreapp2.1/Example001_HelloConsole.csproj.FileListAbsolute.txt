@@ -1,0 +1,11 @@
+H:\Job\Example\Example001_HelloConsole\bin\Debug\netcoreapp2.1\Example001_HelloConsole.deps.json
+H:\Job\Example\Example001_HelloConsole\bin\Debug\netcoreapp2.1\Example001_HelloConsole.runtimeconfig.json
+H:\Job\Example\Example001_HelloConsole\bin\Debug\netcoreapp2.1\Example001_HelloConsole.runtimeconfig.dev.json
+H:\Job\Example\Example001_HelloConsole\bin\Debug\netcoreapp2.1\Example001_HelloConsole.dll
+H:\Job\Example\Example001_HelloConsole\bin\Debug\netcoreapp2.1\Example001_HelloConsole.pdb
+H:\Job\Example\Example001_HelloConsole\obj\Debug\netcoreapp2.1\Example001_HelloConsole.csprojAssemblyReference.cache
+H:\Job\Example\Example001_HelloConsole\obj\Debug\netcoreapp2.1\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+H:\Job\Example\Example001_HelloConsole\obj\Debug\netcoreapp2.1\Example001_HelloConsole.AssemblyInfoInputs.cache
+H:\Job\Example\Example001_HelloConsole\obj\Debug\netcoreapp2.1\Example001_HelloConsole.AssemblyInfo.cs
+H:\Job\Example\Example001_HelloConsole\obj\Debug\netcoreapp2.1\Example001_HelloConsole.dll
+H:\Job\Example\Example001_HelloConsole\obj\Debug\netcoreapp2.1\Example001_HelloConsole.pdb

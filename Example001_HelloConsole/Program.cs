@@ -6,7 +6,8 @@ namespace Example001_HelloConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("2 Hello World!");
+            string Console.Write();
+            Console.Write("Приет, ");
         }
     }
 }
